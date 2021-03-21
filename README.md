@@ -19,7 +19,7 @@ The following images are the representation of the data found.
 ![user by gender](https://github.com/benlew3/bikesharing/blob/master/images/gender%20trip%20heatmap.PNG)
 
 ### Trips by gender
-![gender heat map](https://github.com/benlew3/bikesharing/blob/master/images/gender%20trip%20heatmap.PNG)
+![gender heat map](https://github.com/benlew3/bikesharing/blob/master/images/users%20by%20gender.PNG)
 
 ### Trip Duration peaks by year
 ![yearly usage](https://github.com/benlew3/bikesharing/blob/master/images/trips%20duration%20by%20year.PNG)
